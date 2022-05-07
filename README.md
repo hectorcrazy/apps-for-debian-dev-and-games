@@ -5,7 +5,7 @@ Instalador de Applicaciones para programar en debian y juegos
 <code>~/Desktop/</code>
 <code>~/home/linux/</code>
 <i>Lo ejecutas como</i>
-<code>sudo bash $CARPETA/install.sh</code>
+<code>sudo bash $CARPETA/debian.sh</code>
 <h1>Para Cuentas ROOT</h1>
 <code>login perfil:root; contrase&ntilde;a:toor;</code>
-<code>bash install.sh</code>
+<code>bash debian.sh</code>
